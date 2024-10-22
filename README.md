@@ -1,6 +1,6 @@
 ## Hi there, my name is Sam 👋
 
-# Im currently studying computer science in the university of EAFIT, 
+Im currently studying computer science in the university of EAFIT.
 
 # A little bit about me:
 - 🎶 I love music
